@@ -29,5 +29,3 @@ Functions such as isalpha, isdigit, isalnum, isascii, isprint, toupper, and tolo
 
 A t_list struct is created to handle linked lists.
 Functions like ft_lstnew, ft_lstadd_front, ft_lstadd_back, ft_lstsize, ft_lstlast, ft_lstdelone, ft_lstclear, ft_lstiter, and ft_lstmap perform operations like adding, deleting, sorting, and transforming linked lists.
-
-# LIBFT
